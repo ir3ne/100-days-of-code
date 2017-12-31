@@ -16,5 +16,12 @@
 
 **Link to work:** [todo-list-app](https://gist.github.com/ir3ne/cb1e514cf7054247709e05f755536aa8)
 
+### Day 2: December 31, 2017
+
+**Today's Progress**: Start a to do list app, some issue with mouse events
+**Thoughts:** I understand the importance to project UI before coding. I feel unsatisfied about my work because a lot of time spent and few lines of code as result.
+
+**Link to work:** [todo-list-app](https://github.com/ir3ne/JS-todo-list)
+
 
 
