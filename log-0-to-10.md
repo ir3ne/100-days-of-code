@@ -23,5 +23,12 @@
 
 **Link to work:** [todo-list-app](https://github.com/ir3ne/JS-todo-list)
 
+### Day 3: January 1, 2018
+
+**Today's Progress**: Start weather app for a FreeCodeCamp project. Get json data: done.
+**Thoughts:** I'm happy to get all json data from an api. More happy when I'm rewriting the same app in pure JS.
+
+**Link to work:** [weather-app](https://github.com/ir3ne/weather-app)
+
 
 
