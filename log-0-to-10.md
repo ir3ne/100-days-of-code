@@ -30,5 +30,10 @@
 
 **Link to work:** [weather-app](https://github.com/ir3ne/weather-app)
 
+### Day 4: January 2, 2018
+
+**Today's Progress**: Start a repository for test my Ajax studies.
+**Thoughts:** I'm happy to start my studies on ajax. For now I've only make an XMLHTTPRequest but it's the beginning.
+**Link to work:** [ajax-basic-test](https://github.com/ir3ne/ajax-basic-test)
 
 
