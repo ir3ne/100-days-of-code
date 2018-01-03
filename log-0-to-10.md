@@ -34,12 +34,14 @@
 
 **Today's Progress**: Start a repository for test my Ajax studies.
 **Thoughts:** I'm happy to start my studies on ajax. For now I've only make an XMLHTTPRequest but it's the beginning.
+
 **Link to work:** [ajax-basic-test](https://github.com/ir3ne/ajax-basic-test)
 
 ### Day 5: January 3, 2018
 
 **Today's Progress**: Continue working on Ajax. Studying the difference between Javascript and jQuery
 **Thoughts:** It's seems like jQuery, with its less code, hides all the parts of which a thing needs to work.
+
 **Link to work:** [ajax-basic-test](https://github.com/ir3ne/ajax-basic-test)
 
 
