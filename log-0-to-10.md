@@ -44,4 +44,11 @@
 
 **Link to work:** [ajax-basic-test](https://github.com/ir3ne/ajax-basic-test)
 
+### Day 6: January 4, 2018
+
+**Today's Progress**: Discover the use of the API
+**Thoughts:** I feel enthusiastic for the lot of things it's possible to do with API. Great day today!
+
+**Link to work:** [flikrAPI-image-tags-filter](https://github.com/ir3ne/flickrAPI-image-tags-filter)
+
 
