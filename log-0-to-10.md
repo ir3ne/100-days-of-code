@@ -51,4 +51,14 @@
 
 **Link to work:** [flikrAPI-image-tags-filter](https://github.com/ir3ne/flickrAPI-image-tags-filter)
 
+### Day 7: January 5, 2018
+
+**Today's Progress**: Going deep in the development workflow world
+**Thoughts:** Happy to understand the importance of node, npm and gulp!
+
+**Link to work:** [travel-site-test](https://github.com/ir3ne/travel-site-test)
+
+
+
+
 
