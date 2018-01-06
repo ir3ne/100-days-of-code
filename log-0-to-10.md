@@ -64,6 +64,14 @@
 
 **Link to work:** [travel-site-test](https://github.com/ir3ne/travel-site-test)
 
+### Day 8: January 6, 2018
+
+**Today's Progress**: Make a dice roll game using Object.prototype for the first time
+
+**Thoughts:** Understand Object.protptype use at last!
+
+**Link to work:** [roll-dice](https://github.com/ir3ne/roll-dice)
+
 
 
 
