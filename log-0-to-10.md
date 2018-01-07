@@ -75,6 +75,7 @@
 ### Day 9: January 7, 2018
 
 **Today's Progress**: Working on css architecture and BEM
+
 **Thoughts:** Clean and organized is better for sanity:)
 
 **Link to work:** [travel-site-test](https://github.com/ir3ne/travel-site-test)
