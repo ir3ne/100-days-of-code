@@ -80,6 +80,14 @@
 
 **Link to work:** [travel-site-test](https://github.com/ir3ne/travel-site-test)
 
+### Day 10: January 8, 2018
+
+**Today's Progress**: Working on css architecture using BEM and implementing browser-synch with gulp
+
+**Thoughts:** It's good to understand how to organize better a website's structure.
+
+**Link to work:** [travel-site-test](https://github.com/ir3ne/travel-site-test)
+
 
 
 
