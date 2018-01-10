@@ -96,6 +96,14 @@
 
 **Link to work:** [json-call-test](https://github.com/ir3ne/json-call-test)
 
+### Day 12: January 10, 2018
+
+**Today's Progress**: Starting study React
+
+**Thoughts:** I don't understand a lot today
+
+**Link to work:** [react-test](https://github.com/ir3ne/react-test)
+
 
 
 
