@@ -104,6 +104,15 @@
 
 **Link to work:** [react-test](https://github.com/ir3ne/react-test)
 
+### Day 13: January 11, 2018
+
+**Today's Progress**: Studying ES6: block scope, let, const, arrow functions, default parameters
+
+**Thoughts:** Start understand something about this new syntax
+
+**Link to work:** [react-test](https://github.com/ir3ne/react-test)
+
+
 
 
 
