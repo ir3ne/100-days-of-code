@@ -112,6 +112,15 @@
 
 **Link to work:** [react-test](https://github.com/ir3ne/react-test)
 
+### Day 14: January 12, 2018
+
+**Today's Progress**: Continue studying ES6
+
+**Thoughts:** Continue understand something about this new syntax
+
+**Link to work:** [react-test](https://github.com/ir3ne/react-test)
+
+
 
 
 
