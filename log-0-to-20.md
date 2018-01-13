@@ -120,6 +120,14 @@
 
 **Link to work:** [react-test](https://github.com/ir3ne/react-test)
 
+### Day 15: January 13, 2018
+
+**Today's Progress**: Continue studying ES6: destructuring object property shorthand, for of loop
+
+**Thoughts:** Continue understand something about this new syntax
+
+**Link to work:** [react-test](https://github.com/ir3ne/react-test)
+
 
 
 
