@@ -128,6 +128,13 @@
 
 **Link to work:** [react-test](https://github.com/ir3ne/react-test)
 
+### Day 16: January 14, 2018
+
+**Today's Progress**: Working on node.js https request
+
+**Thoughts:** Node.js is amazing. I'm excited to dive into it.
+
+**Link to work:** [node.js-https-request](https://github.com/ir3ne/node.js-https-request)
 
 
 
