@@ -130,11 +130,21 @@
 
 ### Day 16: January 14, 2018
 
-**Today's Progress**: Working on node.js https request
+**Today's Progress**: Studying how to make a server with node.js
 
 **Thoughts:** Node.js is amazing. I'm excited to dive into it.
 
 **Link to work:** [node.js-https-request](https://github.com/ir3ne/node.js-https-request)
+
+### Day 17: January 15, 2018
+
+**Today's Progress**: Studying how to make a server with node.js
+
+**Thoughts:** Not complete clear yet.
+
+**Link to work:** [node.js-https-request](https://github.com/ir3ne/node.js-https-request)
+
+
 
 
 
