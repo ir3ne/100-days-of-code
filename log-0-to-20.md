@@ -144,6 +144,14 @@
 
 **Link to work:** [node.js-https-request](https://github.com/ir3ne/node.js-https-request)
 
+### Day 18: January 16, 2018
+
+**Today's Progress**: Continue studying node.js. Not so easy
+
+**Thoughts:** a little bit frustrated
+
+**Link to work:** [node-app](https://github.com/ir3ne/node-app)
+
 
 
 
