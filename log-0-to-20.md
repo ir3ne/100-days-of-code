@@ -144,13 +144,24 @@
 
 **Link to work:** [node.js-https-request](https://github.com/ir3ne/node.js-https-request)
 
-### Day 18: January 16, 2018
+### Day 18: January 17, 2018
 
 **Today's Progress**: Continue studying node.js. Not so easy
 
 **Thoughts:** a little bit frustrated
 
 **Link to work:** [node-app](https://github.com/ir3ne/node-app)
+
+### Day 19: January 18, 2018
+
+**Today's Progress**: Start a React app
+
+**Thoughts:** it's time to set up all react environment
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+
+
+
 
 
 
