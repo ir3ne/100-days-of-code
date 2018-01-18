@@ -157,6 +157,7 @@
 **Today's Progress**: Start a React app
 
 **Thoughts:** it's time to set up all react environment
+
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
 
 
