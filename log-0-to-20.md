@@ -158,6 +158,14 @@
 
 **Thoughts:** it's time to set up all react environment
 
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app
+
+### Day 20: January 19, 2018
+
+**Today's Progress**: Continue React app
+
+**Thoughts:** Loving JSX!
+
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
 
 
