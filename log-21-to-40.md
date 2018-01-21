@@ -5,3 +5,11 @@
 **Thoughts:** Understand conditionals in JSX
 
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+### Day 22: January 21, 2018
+
+**Today's Progress**: Continue React app understanding let and const
+
+**Thoughts:** change all 'var' world
+
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
