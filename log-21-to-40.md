@@ -13,3 +13,11 @@
 **Thoughts:** change all 'var' world
 
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+### Day 23: January 22, 2018
+
+**Today's Progress**: Continue React to do list app
+
+**Thoughts:** create the first functions
+
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
