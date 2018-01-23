@@ -21,3 +21,11 @@
 **Thoughts:** create the first functions
 
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+### Day 24: January 23, 2018
+
+**Today's Progress**: Studying weirds parts of JavaScript
+
+**Thoughts:** execution context, hoisting and how to work js engine
+
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
