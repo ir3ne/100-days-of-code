@@ -29,3 +29,11 @@
 **Thoughts:** execution context, hoisting and how to work js engine
 
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+### Day 25: January 24, 2018
+
+**Today's Progress**: Studying JS scope chain and how js engine works
+
+**Thoughts:** I understood some of strange parts at least
+
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
