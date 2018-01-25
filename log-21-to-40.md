@@ -37,3 +37,11 @@
 **Thoughts:** I understood some of strange parts at least
 
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+### Day 26: January 25, 2018
+
+**Today's Progress**: Studying JS coercion, precedence, associativity and operators.
+
+**Thoughts:** I understood some of strange parts at least
+
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
