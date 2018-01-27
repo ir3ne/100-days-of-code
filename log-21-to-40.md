@@ -45,3 +45,19 @@
 **Thoughts:** I understood some of strange parts at least
 
 **Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+### Day 27: January 26, 2018
+
+**Today's Progress**: Studying JS coercion and priority of operators
+
+**Thoughts:** I understood some of strange parts
+
+**Link to work:** [indecision-app](https://github.com/ir3ne/indecision-app)
+
+### Day 28: January 27, 2018
+
+**Today's Progress**: Continue the to do list app with react
+
+**Thoughts:** Add form, input and buttons
+
+**Link to work:** [react-todo-list](https://github.com/ir3ne/react-todo-list)
