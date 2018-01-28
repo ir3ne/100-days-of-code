@@ -61,3 +61,11 @@
 **Thoughts:** Add form, input and buttons
 
 **Link to work:** [react-todo-list](https://github.com/ir3ne/react-todo-list)
+
+### Day 29: January 28, 2018
+
+**Today's Progress**: Continue the to do list app with react
+
+**Thoughts:** Add pick random option button
+
+**Link to work:** [react-todo-list](https://github.com/ir3ne/react-todo-list)
