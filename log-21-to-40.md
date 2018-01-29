@@ -69,3 +69,11 @@
 **Thoughts:** Add pick random option button
 
 **Link to work:** [react-todo-list](https://github.com/ir3ne/react-todo-list)
+
+### Day 30: January 29, 2018
+
+**Today's Progress**: Continue the to do list app with react
+
+**Thoughts:** Studied React components
+
+**Link to work:** [react-todo-list](https://github.com/ir3ne/react-todo-list)
